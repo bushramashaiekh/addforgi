@@ -10,7 +10,6 @@ class test {
 
 	@Test
 	void test() {
-		
 		fail("Not yet implemented");
 	}
 	@Test
